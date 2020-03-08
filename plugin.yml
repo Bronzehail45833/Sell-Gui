@@ -1,0 +1,11 @@
+name: SellGUI
+author: Bronzehail
+description: SellGUI plugin inspired by Java
+main: SellGUI/Master
+version: 1.0
+api: [3.0.0]
+load: STARTUP
+commands:
+  sellgui:
+    description: Sell your items with gui
+...
